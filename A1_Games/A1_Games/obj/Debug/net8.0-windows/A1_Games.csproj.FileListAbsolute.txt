@@ -1,0 +1,17 @@
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\bin\Debug\net8.0-windows\A1_Games.exe
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\bin\Debug\net8.0-windows\A1_Games.deps.json
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\bin\Debug\net8.0-windows\A1_Games.runtimeconfig.json
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\bin\Debug\net8.0-windows\A1_Games.dll
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\bin\Debug\net8.0-windows\A1_Games.pdb
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.Form1.resources
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.csproj.GenerateResource.cache
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.AssemblyInfoInputs.cache
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.AssemblyInfo.cs
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.csproj.CoreCompileInputs.cache
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.dll
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\refint\A1_Games.dll
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.pdb
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.genruntimeconfig.cache
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\ref\A1_Games.dll
+C:\Users\Yosip\Desktop\SODV2101\A1_Games\A1_Games\obj\Debug\net8.0-windows\A1_Games.Menu.resources
